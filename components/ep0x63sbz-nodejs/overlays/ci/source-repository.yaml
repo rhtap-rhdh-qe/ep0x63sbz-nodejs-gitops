@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ep0x63sbz-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ep0x63sbz-nodejs
